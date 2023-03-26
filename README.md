@@ -1,3 +1,5 @@
+Built a web app that uses React.js in conjunction with a local json server that updates tasks in real time. This app gives real time updating information and stores information using a db.json that could be used with any backend framework. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
